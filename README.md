@@ -109,7 +109,7 @@ Predict cardiovascular disease risk using machine learning techniques.
 
 ---
 
-# 🛠️ Installation
+# Installation
 
 Clone the repository:
 
@@ -131,7 +131,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ How to Run Projects
+# How to Run Projects
 
 Example:
 
