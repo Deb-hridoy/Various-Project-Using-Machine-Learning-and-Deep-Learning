@@ -1,18 +1,18 @@
-# 🚀 Various Projects Using Machine Learning and Deep Learning
+# Various Projects Using Machine Learning and Deep Learning
 
 A collection of beginner-to-intermediate Machine Learning and Deep Learning projects built using Python.
 This repository includes real-world implementations of classification, regression, computer vision, and predictive analytics projects using popular ML/DL techniques.
 
 ---
 
-## 📌 Repository Overview
+## Repository Overview
 
 This repository is organized into multiple categories of projects:
 
-* 📊 **Business & Predictive Analytics**
-* 🧠 **Machine Learning Algorithms**
-* 🖼️ **Deep Learning / CNN Projects**
-* 🏥 **Healthcare Prediction Systems**
+* **Business & Predictive Analytics**
+* **Machine Learning Algorithms**
+* **Deep Learning / CNN Projects**
+* **Healthcare Prediction Systems**
 
 Each project demonstrates practical applications of AI and data science concepts using Python and popular libraries like:
 
@@ -24,9 +24,9 @@ Each project demonstrates practical applications of AI and data science concepts
 
 ---
 
-# 🔥 Featured Projects
+# Featured Projects
 
-## 📉 Customer Churn Prediction
+## Customer Churn Prediction
 
 Predict whether a customer is likely to leave a business using classification algorithms.
 
@@ -44,7 +44,7 @@ Predict whether a customer is likely to leave a business using classification al
 
 ---
 
-## 📈 Profit Prediction Regression
+## Profit Prediction Regression
 
 Regression-based machine learning model for predicting business profit.
 
@@ -56,7 +56,7 @@ Regression-based machine learning model for predicting business profit.
 
 ---
 
-## 📧 Spam Email Detection
+## Spam Email Detection
 
 Machine learning-based spam classifier for detecting unwanted emails.
 
@@ -68,7 +68,7 @@ Machine learning-based spam classifier for detecting unwanted emails.
 
 ---
 
-## 📊 KNN Stock Prediction
+## KNN Stock Prediction
 
 K-Nearest Neighbors implementation for stock-related prediction tasks.
 
@@ -80,7 +80,7 @@ K-Nearest Neighbors implementation for stock-related prediction tasks.
 
 ---
 
-## 🐱🐶 Cat vs Dog Image Prediction
+## Cat vs Dog Image Prediction
 
 Deep Learning CNN project for classifying images of cats and dogs.
 
@@ -97,7 +97,7 @@ Deep Learning CNN project for classifying images of cats and dogs.
 
 ---
 
-## ❤️ Cardiovascular Disease Prediction
+## Cardiovascular Disease Prediction
 
 Predict cardiovascular disease risk using machine learning techniques.
 
@@ -147,7 +147,7 @@ python CNN_Project/cat_or_dogs_image_prediction.py
 
 ---
 
-# 📚 Skills Demonstrated
+# Skills Demonstrated
 
 * Machine Learning
 * Deep Learning
